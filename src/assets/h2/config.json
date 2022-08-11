@@ -1,0 +1,22 @@
+{
+  "songs": [
+    {
+      "name": "Ainja",
+      "url": "songs/ainja.mid"
+    },
+    {
+      "name": "Marcus",
+      "url": "songs/marcus.mid"
+    },
+    {
+      "name": "Oloya",
+      "url": "songs/oloya.mid"
+    }
+  ],
+  "drumKits": [
+    {
+      "name": "samba-kit",
+      "url": "drumkits/samba-kit/drumkit.json"
+    }
+  ]
+}
